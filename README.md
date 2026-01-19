@@ -9,3 +9,5 @@ some senior are so helpful.this is true or not??
 this is the 5th day of coading.
 <br>
 today i learn many thing.
+add also for feature 1
+

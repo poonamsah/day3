@@ -1,5 +1,5 @@
 # day6
-this is my not exactly 6 day but continue day of practing
+this is my not exactly 7 day but continue day of practing
 this is my practice journey
 <br>
 <p>this is a simple paragraph.</p>
